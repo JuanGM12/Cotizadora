@@ -1,0 +1,11 @@
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\bin\Debug\Cotizadora.exe.config
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\bin\Debug\Cotizadora.exe
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\bin\Debug\Cotizadora.pdb
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\obj\Debug\Cotizadora.csproj.AssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\obj\Debug\Cotizadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\obj\Debug\Cotizadora.Properties.Resources.resources
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\obj\Debug\Cotizadora.csproj.GenerateResource.cache
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\obj\Debug\Cotizadora.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\obj\Debug\Cotizadora.exe
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\obj\Debug\Cotizadora.pdb
+C:\Users\Juan Diego\Desktop\Cotizadora\Cotizadora\obj\Debug\Cotizadora.Cotizadora.resources
